@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mi Sitio Web",
+    "section": "",
+    "text": "Este es un ejemplo de un sitio web de una página creado con Quarto.\n\n\n\nEmail: tu.email@ejemplo.com"
+  },
+  {
+    "objectID": "index.html#contacto",
+    "href": "index.html#contacto",
+    "title": "Mi Sitio Web",
+    "section": "",
+    "text": "Email: tu.email@ejemplo.com"
+  }
+]
