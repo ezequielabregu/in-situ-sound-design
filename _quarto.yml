@@ -3,10 +3,10 @@ project:
   output-dir: _site
 
 website:
-  title: "Mi Sitio Web"
+  title: "In Situ Sound Design"
   description: "Un sitio web simple creado con Quarto"
-  site-url: "https://tudominio.com"
-  repo-url: "https://github.com/tuusuario/tu-repo"
+  site-url: "https://ezequielabregu.github.io/in-situ-sound-design"
+  repo-url: "https://github.com/ezequielabregu/in-situ-sound-design"
   
   navbar:
     left:
@@ -14,7 +14,7 @@ website:
         href: index.qmd
     right:
       - icon: github
-        href: "https://github.com/tuusuario"
+        href: "https://github.com/ezequielabregu/in-situ-sound-design"
       - icon: linkedin
         href: "https://linkedin.com/in/tuperfil"
 

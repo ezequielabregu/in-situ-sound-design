@@ -1,4 +1,26 @@
+# Quarto output
 _site/
 .quarto/
 *.log
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+renv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
 /.quarto/
