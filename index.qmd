@@ -17,14 +17,15 @@ execute:
   echo: true
 ---
 
-# Bienvenido a Mi Sitio Web
+# In Situ  
+## Diseño de Sonido
+at
 
-Este es un ejemplo de un sitio web de una página creado con Quarto.
 
 
 ## Contacto
 
-- Email: tu.email@ejemplo.com
+- Email: ezequielabregu@gmail.com
 
 ---
 
