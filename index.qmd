@@ -16,12 +16,11 @@ execute:
   eval: false
   echo: true
 ---
-
 # Requerimientos del Diseño de Sonido
-
 ## DISPOSITIVO SPEAKER BACKPACK
 
 ![Backpack speaker](assets/images/backpack.png)
+
 
 ### Lista de materiales con especificaciones
 
@@ -76,6 +75,7 @@ execute:
     según necesidad. Longitudes de 1,5--3 m, con terminaciones
     reforzadas y funda de PVC flexible. Usados para entrada de señal al
     amplificador desde fuentes externas.
+
 
 ### Costo de realización
 
@@ -149,19 +149,8 @@ Baterías de ion-litio recargables incluidas
 
 1 sistema de carga múltiple
 
-![](vertopal_791bf30947b9472bb87a22bf9c190e9e/media/image1.png){width="3.666140638670166in"
-height="4.216666666666667in"}
+![](assets/images/headphones.png)
 
-Equipamiento (Requerimientos mínimos, provistos por el CCR)
-
-• Amplificador de potencia en caso de que las cajas no sean potenciadas
-
-• Consola Mixer: 4 entradas de línea, equalización por canal de 3 bandas
-(control de medios semiparamétricos).
-
-• Altavoces: 2 cajas full range de mayores dimensiones compatibles con
-el recinto. 4 cajas de, menores dimensiones (16W mínimo), situadas en
-cada esquina del recinto y elevadas a la altura de los espectadores.
 
 ### PRUEBA DE SONIDO (SOUNDCHECK) 
 
@@ -188,12 +177,27 @@ Router para conexiones WIFI
 
 Cables de Audio
 
+# MEDIA
 
+## Audio
 
+### Capilla
+<audio controls>
+  <source src="assets/audio/prueba-capilla.mp3" type="audio/mpeg">
+  <source src="assets/audio/prueba-capilla.ogg" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio>
 
-## Contacto
+## Video
 
-- Email: ezequielabregu@gmail.com
+<video width="100%" controls>
+  <source src="assets/video/mochi.mp4" type="video/mp4">
+  <source src="assets/video/mochi.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
+## Imágenes
+
+![Cuatro performers caminando con las backpacks speakers](assets/images/backpack-4.png)
 ---
 
