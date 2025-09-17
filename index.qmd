@@ -1,0 +1,30 @@
+---
+title: "Mi Sitio Web"
+author: "Tu Nombre"
+date: today
+format:
+  html:
+    theme: cosmo
+    #css: styles.css
+    toc: true
+    toc-location: left
+    code-fold: true
+    code-tools: true
+    fig-cap-location: bottom
+    smooth-scroll: true
+execute:
+  eval: false
+  echo: true
+---
+
+# Bienvenido a Mi Sitio Web
+
+Este es un ejemplo de un sitio web de una página creado con Quarto.
+
+
+## Contacto
+
+- Email: tu.email@ejemplo.com
+
+---
+
