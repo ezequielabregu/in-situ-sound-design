@@ -181,10 +181,50 @@ Cables de Audio
 
 ## Audio
 
-### Capilla
+### Instalación Sonora en la Capilla
+
+Se utilizó material original grabado en la Capilla del CCR. La instalación
+sonora consiste en tres piezas de audio que se reproducen en loop
+independientemente en tres canales discretos. Cada pieza fue grabada
+en diferentes puntos de la capilla, utilizando micrófonos binaurales
+y de ambiente. El objetivo es crear una experiencia inmersiva que resalte
+las características acústicas y espaciales del lugar.
+
+#### Capilla 01
+
 <audio controls>
-  <source src="assets/audio/prueba-capilla.mp3" type="audio/mpeg">
-  <source src="assets/audio/prueba-capilla.ogg" type="audio/ogg">
+  <source src="assets/audio/prueba-capilla-01.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+#### Capilla 02
+
+<audio controls>
+  <source src="assets/audio/prueba-capilla-02.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+#### Capilla 03
+
+<audio controls>
+  <source src="assets/audio/prueba-capilla-03.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Film Sonoro - Terraza
+
+Se utiliza material de archivo sonoro de la película [*Bajo un mismo rostro*](https://es.wikipedia.org/wiki/Bajo_un_mismo_rostro_(pel%C3%ADcula_de_1962)). A partir del archivo original se han realizado clonaciones de voz con IA para generar nuevas frases y diálogos. Esto se logra mediante la tecnología de síntesis de voz, que permite crear voces artificiales que imitan las características y entonaciones de la voz humana original.
+
+#### Bajo un mismo rostro 01
+
+<audio controls>
+  <source src="assets/audio/mirtha_out_2.wav" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+#### Bajo un mismo rostro 02
+<audio controls>
+  <source src="assets/audio/mirtha_out_4.wav" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -199,5 +239,8 @@ Cables de Audio
 ## Imágenes
 
 ![Cuatro performers caminando con las backpacks speakers](assets/images/backpack-4.png)
+
+![Cuatro performers caminando con las backpacks speakers](assets/images/backpack-5.png)
+
 ---
 
