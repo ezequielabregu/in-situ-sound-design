@@ -24,7 +24,7 @@ execute:
 
 ### Lista de materiales con especificaciones
 
-1.  Estructura de madera: Caja acústica construida en fenólico de 12--15
+1.  **Estructura de madera:** Caja acústica construida en fenólico de 12--15
     mm (o compensado fenólico/madera contrachapada de alta densidad),
     con dimensiones externas de 40 × 30 × 15 cm. El diseño debe incluir
     ensambles sellados, refuerzos internos básicos y tratamiento
@@ -33,7 +33,7 @@ execute:
 > Función: alojar el parlante, electrónica y sistema de alimentación,
 > garantizando estabilidad estructural y una resonancia controlada.
 
-2.  Correas de cuero sintético ajustables: Dos unidades de material
+2.  **Correas de cuero sintético ajustables: **Dos unidades de material
     sintético reforzado, con hebillas o herrajes metálicos para ajuste
     en longitud. Ancho recomendado: 4--5 cm, para mayor comodidad en
     transporte tipo mochila. Color negro o neutro.
@@ -41,36 +41,36 @@ execute:
 > Función: facilitar la portabilidad del dispositivo en contexto
 > performático.
 
-3.  Parlante de 8 pulgadas (full range): Driver dinámico de 8" de
+3.  **Parlante de 8 pulgadas (full range): **Driver dinámico de 8" de
     diámetro, con rango de frecuencia de al menos 60 Hz -- 18 kHz,
     sensibilidad mínima 88 dB SPL (1W/1m) y potencia nominal de 15--30 W
     RMS. Impedancia estándar: 4--8 Ω. Diseño full-range que permita
     reproducir tanto voz como música sin necesidad de tweeter adicional.
 
-4.  Cables de conexión de audio: Cableado interno con conductores de
+4.  **Cables de conexión de audio:** Cableado interno con conductores de
     cobre libre de oxígeno (OFC), sección mínima 0,5--1 mm² para la
     conexión del parlante al amplificador. Incluye terminales tipo
     faston o soldadura directa para asegurar firmeza y baja pérdida.
 
-5.  Amplificador de 10 W (mínimo): Módulo o unidad clase D de 2 × 10 W
+5.  **Amplificador de 10 W (mínimo):** Módulo o unidad clase D de 2 × 10 W
     RMS (a 4--8 Ω), con eficiencia \>80% y distorsión armónica total
     (THD) inferior al 0,1%. Alimentación por USB 5 V o entrada directa
     de batería (preferiblemente rango 5--12 V). Entrada de audio por
     jack 3,5 mm o RCA. Opción de controles de volumen integrados.
 
-6.  Power bank o batería de alimentación: Unidad de iones de litio
+6.  **Power bank o batería de alimentación:** Unidad de iones de litio
     recargable, capacidad mínima de 20.000 mAh, salida 5 V / 2 A (USB-A
     o USB-C). Preferible con protección contra sobrecarga, descarga
     profunda y cortocircuito. Alternativa: pack de celdas 18650 con BMS
     dedicado para integración interna.
 
-7.  ESP32: Placa de desarrollo con microcontrolador dual-core 32-bit
+7.  **ESP32:** Placa de desarrollo con microcontrolador dual-core 32-bit
     Tensilica LX6, frecuencia de reloj 240 MHz, conectividad integrada
     WiFi 802.11 b/g/n y Bluetooth 4.2 BLE, memoria Flash mínima 4 MB y
     RAM de 520 KB. Compatible con desarrollo en Arduino IDE o ESP-IDF.
     Alimentación: 3,3 V regulados (entrada micro-USB 5 V).
 
-8.  Cables de audio para conexionado externo: Cableado auxiliar con
+8.  **Cables de audio para conexionado externo:** Cableado auxiliar con
     blindaje de cobre trenzado, conectores de 3,5 mm estéreo, RCA o XLR
     según necesidad. Longitudes de 1,5--3 m, con terminaciones
     reforzadas y funda de PVC flexible. Usados para entrada de señal al
