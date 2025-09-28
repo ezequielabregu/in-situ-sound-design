@@ -105,6 +105,28 @@ tornillería, adhesivos, conectores o inflación: \$22.635
 **TOTAL ESTIMADO (con contingencia): \$248.984 ARS** (→ redondeo final ≈
 \$249.000 ARS)
 
+### Costo de realización (versión económica)
+
+**Precios unitarios y subtotales de realización (Septiembre 2025)**
+
+| Ítem | Cantidad | Precio unitario (ARS) | Subtotal (ARS) | Fuente / nota |
+|------|----------|----------------------|----------------|---------------|
+| Barra de sonido Genius SoundBar 100 (USB + 3.5 mm) | 1 unidad | $25.000 | $25.000 | Alternativa económica al driver + amplificador dedicado |
+| Powerbank portátil Gadnic 2.500 mAh | 1 unidad | $35.000 | $35.000 | Menor capacidad, suficiente para pruebas o uso breve |
+| Valija de madera lisa | 1 unidad | $12.000 | $12.000 | Caja lista, reemplaza trabajo de carpintería y fenólico |
+| Cinta mochilera rayada con lurex 3 cm x 10 m | 1 rollo | $7.000 | $7.000 | Sustituye correas de cuero sintético, abaratando el asa/sujetos |
+| ESP32 (placa de desarrollo) | 1 unidad | $8.600 | $8.600 | Placa de control / conectividad |
+
+---
+
+Subtotal materiales: **$87.600**
+
+**Contingencia (10%)** — para ajustes, tornillería, adhesivos, conectores: $8.760
+
+**TOTAL ESTIMADO (con contingencia): $96.360 ARS** (→ redondeo final ≈  
+$96.500 ARS)
+
+
 ## REFUERZO DE SONIDO EN EL PATIO DEL TILO (Provisto por el CCR)
 
 Se requiere un sistema de PA de 8 canales discretos distribuídos (como
